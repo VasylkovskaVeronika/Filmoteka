@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Filmoteka</string>
+
+    <string name="category_action">Action</string>
+    <string name="category_scifi">Science fiction</string>
+    <string name="category_drama">Drama</string>
+    <string name="category_thriller">Thriller</string>
+
+    <string name="status_seen">Seen already</string>
+    <string name="status_notSeen">Not seen yet</string>
+
+    <string name="content_description_saved">Save changes</string>
+    <string name="content_description_cancel">Discard changes</string>
+    <string name="content_description_add">Add new film</string>
+    <string name="content_description_category">Choose category</string>
+    <string name="content_description_status">Choose status</string>
+
+    <string name="title_list">My films</string>
+    <string name="title_add_edit">Add/edit film</string>
+
+    <string name="add_poster">Pick Image from Gallery</string>
+    <string name="added_poster">Selected Image</string>
+    <string name="noPoster_added">No image selected</string>
+    <string name="add_title">Film title</string>
+    <string name="add_date">Choose release date</string>
+    <string name="add_noDate">No date has been chosen</string>
+    <string name="add_comment">Comment</string>
+    <string name="add_rating">Give rating</string>
+
+    <string name="remove_title">Remove Film</string>
+    <string name="remove_text">Are you sure you want to remove</string>
+
+    <string name="alert_noEdit_title">Not editable</string>
+    <string name="alert_noEdit_text">You cannot edit the film that has already been seen.</string>
+    <string name="alert_noCategory_title">No category provided</string>
+    <string name="alert_noCategory_text">You need to choose the category.</string>
+    <string name="alert_farDate_title">Release date not present or in more than 2 years</string>
+    <string name="alert_farDate_text">The date cannot be empty or so far in the future.</string>
+    <string name="alert_blankTitle_title">Blank title</string>
+    <string name="alert_blankTitle_text">You cannot leave blank title for a film</string>
+    <string name="alert_noRating_title">No rating</string>
+    <string name="alert_noRating_text">Rating is required</string>
+</resources>
